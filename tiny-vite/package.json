@@ -1,0 +1,18 @@
+{
+  "name": "tiny-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node tiny-vite.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/compiler-dom": "^3.2.33",
+    "@vue/compiler-sfc": "^3.2.33",
+    "koa": "^2.13.4",
+    "vue": "^3.2.33"
+  }
+}
